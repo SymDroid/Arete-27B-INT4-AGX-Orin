@@ -1,0 +1,9 @@
+Arete 27B INT4 for NVIDIA Jetson AGX Orin
+
+Modified and redistributed by SymDroid, 2026.
+Modification: W4A16 INT4 quantization, packaging of a checkpoint containing
+MTP tensors, and Jetson AGX Orin deployment documentation.
+Original post-trained model: NousResearch/Arete-27B (Nous Research).
+Underlying model and MTP architecture: Qwen/Qwen3.8-27B (Alibaba/Qwen).
+This third-party release is not endorsed by the original developers.
+See LICENSE and licenses/ for original licensing texts and notices.
